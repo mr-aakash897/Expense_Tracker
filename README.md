@@ -1,4 +1,4 @@
-# Syntecxhub Expense Tracker 💰
+# Expense Tracker 💰
 
 A modern, responsive **Expense Tracker** application built using **React** and **React Hooks** as part of the **Syntecxhub Web Development Internship Program**.
 
